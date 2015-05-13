@@ -4,6 +4,7 @@
 #include "stdafx.h"
 #include <time.h>
 #include <iostream>
+#include <string>
 
 using namespace std;
 
