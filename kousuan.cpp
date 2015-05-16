@@ -8,7 +8,7 @@
 
 using namespace std;
 
-
+// main conflict
 // int _tmain(int argc, _TCHAR* argv[])
 // {
 // 	time_t now = time(NULL);
