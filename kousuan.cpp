@@ -8,7 +8,9 @@
 
 using namespace std;
 
-
+void test()
+{
+}
 // int _tmain(int argc, _TCHAR* argv[])
 // {
 // 	time_t now = time(NULL);
