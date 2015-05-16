@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// main conflict
 void test()
 {
 }
